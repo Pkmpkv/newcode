@@ -1,0 +1,7 @@
+总计 32
+drwxrwxr-x 2 val val  4096 10月 11 20:28 .
+drwxrwxr-x 5 val val  4096 10月 11 20:16 ..
+-rw-rw-r-- 1 val val   142 10月 11 20:22 inc.h
+-rwxrwxr-x 1 val val 16128 10月 11 20:28 test
+-rw-rw-r-- 1 val val   270 10月 11 20:28 test.c
+-rw-rw-r-- 1 val val     0 10月 11 20:28 test.txt
